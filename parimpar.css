@@ -1,0 +1,9 @@
+body{
+     font: 12pt arial;
+}
+h1,h2,h3 {
+     font-family: cursive; font-weight: normal;
+}
+button{
+     font-size: 12pt; padding: 30px;
+}
