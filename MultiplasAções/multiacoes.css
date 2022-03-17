@@ -1,0 +1,10 @@
+body{
+    font: 12pt arial;
+
+}
+h1,h2,h3{
+    font-family: 'Times New Roman', Times, serif; font-weight: normal;
+}
+button{
+    font-size: 12 pt; padding: 30px;
+}
