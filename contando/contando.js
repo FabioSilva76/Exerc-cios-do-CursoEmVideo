@@ -8,5 +8,5 @@ function contar(){
         saida.innerHTML += `${cont} &#x1F449;`
         cont ++ // corresponde a cont = cont + 1 
     }
-    saida.innerHTML += `&#x1F31`
+    saida.innerHTML += `&#x1F3C1`
 }
