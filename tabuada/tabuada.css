@@ -1,0 +1,10 @@
+body{
+    font: 12pt arial;
+}
+input[type=number] {font-size: 12pt;}
+input[type=submit] {
+    background-color: green;
+    color: white;
+    font-size: 12pt;
+    padding: 5px;
+}
